@@ -1,0 +1,7 @@
+{
+    "bookname": "乘龙佳婿",
+    "img": "https://www.xbiquge.tw/files/article/image/46/46515/46515s.jpg",
+    "author": "作者：府天",
+    "intro": " 穿越三年，长在乡间，有母无父，不见大千。　　就在张寿安心种田教书的时候，有一天，一队车马造访，给他带来了一个未婚妻。　　当清俊闲雅的温厚乡下小郎君遭遇美艳...\n",
+    "homeUrl": "https://www.xbiquge.tw/book/46515"
+}

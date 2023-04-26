@@ -1,0 +1,7 @@
+{
+    "bookname": "圣墟",
+    "img": "https://www.xbiquge.tw/files/article/image/4/4772/4772s.jpg",
+    "author": "作者：辰东",
+    "intro": " 在破败中崛起，在寂灭中复苏。沧海成尘，雷电枯竭，那一缕幽雾又一次临近大地，世间的枷锁被打开了，一个全新的世界就此揭开神秘的一角……\n",
+    "homeUrl": "https://www.xbiquge.tw/book/4772"
+}
