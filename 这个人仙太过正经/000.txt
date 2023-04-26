@@ -1,0 +1,7 @@
+{
+    "bookname": "这个人仙太过正经",
+    "img": "https://www.xbiquge.tw/files/article/image/41/41126/41126s.jpg",
+    "author": "作者：言归正传",
+    "intro": " 天高九万里，地有无尽国。人道多不易，山海尽荒泽。【PS①：为什么书名不能加引号！】【PS②：继续仙侠轻喜剧，已完本《我师兄实在太稳健了》、《地球第一剑》，...\n",
+    "homeUrl": "https://www.xbiquge.tw/book/41126"
+}

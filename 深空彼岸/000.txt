@@ -1,0 +1,7 @@
+{
+    "bookname": "深空彼岸",
+    "img": "https://www.xbiquge.tw/files/article/image/43/43106/43106s.jpg",
+    "author": "作者：辰东",
+    "intro": " 浩瀚的宇宙中，一片星系的生灭，也不过是刹那的斑驳流光。\n 仰望星空，总有种结局已注定的伤感，千百年后你我在哪里？家国，文明火光，地球，都不过是深空中的一粒尘埃。\n 星空一瞬，人间千年。\n 虫鸣一世不过秋，你我一样在争渡。\n 深空尽头到底有什么？\n",
+    "homeUrl": "https://www.xbiquge.tw/book/43106"
+}

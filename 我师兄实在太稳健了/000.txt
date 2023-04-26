@@ -1,0 +1,7 @@
+{
+    "bookname": "我师兄实在太稳健了",
+    "img": "https://www.xbiquge.tw/files/article/image/52/52689/52689s.jpg",
+    "author": "作者：言归正传",
+    "intro": " 重生在封神大战之前的上古时代，李长寿成了一个小小的炼气士，没有什么气运加身，也不是什么注定的大劫之子，他只有一个想要长生不老的修仙梦。为了能在残酷的洪荒安...\n",
+    "homeUrl": "https://www.xbiquge.tw/book/52689"
+}

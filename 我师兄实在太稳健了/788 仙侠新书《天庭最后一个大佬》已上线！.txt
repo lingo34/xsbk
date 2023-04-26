@@ -1,0 +1,25 @@
+
+
+{"code":0,"data":{"bookInfo":{"bookId":1016572786,"bookName":"我师兄实在太稳健了","authorId":401199896,"authorName":"言归正传","Id":22,"ame":"仙侠","Url":"//xianxia.","auditStatus":19,"checkLevel":15,"subCateId":207,"subame":"神话修真","unitCategoryId":20014,"unitSubCategoryId":20018,"isVip":1,"bookType":1,"form":etype":1,"totalprieLayout":0,"bookStatus":"完本","signStatus":"签约作品","desc":"重生在封神大战之前的上古时代，李长寿成了一个小小的炼气士，没有什么气运加身，也不是什么注定的大劫之子，他只有一个想要长生不老的修仙梦。
+
+ 为了能在残酷的洪荒安身立命，他努力不沾因果，杀人必扬其灰，凡事谋而后动，从不轻易步入危险之中。
+
+ 藏底牌，修遁术，炼丹毒，掌神通，不动稳如老狗，一动石破天惊，动后悄声走人。
+
+ 本来李长寿规划中，自己会一直躲在山中平安无事的修行成仙，直到有一年，他的老师父静极思动，又给他……收了个师妹回来……
+
+ 【PS：暂时不开新群，五群（1098711961）壹群（474095492）贰群（836797636）三群（398929196）肆群（1071059242）贯彻到底，轻松修仙！】","joinTime":"2019.10.13","collect":3916673,"updChapterId":711298968,"updame":"仙侠新书《天庭最后一个大老》已上线！","updTime":"2022-05-01","updChapterUrl":"//vipreader./chapter/1016572786/711298968","cbid":"15082234305687604","bookLabels":[{"tag":"练功流"},{"tag":"轻松"}],"bookLabelsTime":1653521986,"bookTag":{"tagName":"轻小说","link":"///2cy"},"updInfo":{"desc":"30天内更新20~30万字","tag":"经常爆发","updStatus":""},"chtIorNiame":""},"i":{"reable":1,"moEnable":1,"donateEnable":1},"wordst":"364.71万","clickTotal":-1,"reAll":11248643,"reWeek":1091,"mo":1838,"showWordst":"364.71万","vipClickWeek":0,"vipClickAll":0,"tRelated":[],"isSighTic":0},"riskbe":{"be":0,"message":""},"riskInfo":{"banId":0,"banMessage":"","sessionKey":"","captchaAId":"","captchaURL":"","pht":"","ge":"","offlicha":0,"captchaType":0},"fo":{"actualWords":148,"authorReend":[],"authorSay":"","cbid":15082234305687604,"ccid":62097167610868922,"chapterId":711298968,"ame":"仙侠新书《天庭最后一个大老》已上线！","chapterOrder":10024,"cvid":51070293540049852,"extra":{"us":0,"prevName":"做了个不太稳健的决定【关于新书】","prevVipStatus":1,"volumeBody":true,"volumeName":"番外篇","Url":"","preUrl":"//vipreader./chapter/1016572786/699878946"},"fi":0,"freeStatus":0,"modifyTime":1651372974,"":-1,"Ccid":0,"prev":699878946,"prevCcid":60390798847882093,"updateTime":"2022-05-01 10:42","uuid":10004,"vipStatus":1,"volumeId":89959945,"wordst":148,"isFirst":0,"t":"
+
+ 简介：
+
+ 三百年前的天界，斗战胜佛踏平了雷音寺，二郎真君噼开了凌霄殿。
+
+ 三百年后的蓝星，五好青年周拯本来一直过着做五休二、朝九晚五的‘螺丝钉’日常，只是最近几天，他的日常出现了一点小状况。
+
+ ……
+
+ 新书类型：搞笑轻松文。
+
+ 类现代背景世界观，天庭神仙转世修行。
+
+ 这是归归当前最想写的一个故事，欢迎读者老爷移步品鉴！","authorWords":{"t":""},"updateTimestamp":1651372974,"isBuy":1,"limitFree":0,"eFW":0,"ark":"","isPubliode":1,"fEnS":0},"rewardI":21,"todayt":1},"refo":{"weekt":1099,"disForward":2,"disBackward":0,"rank":421},"moInfo":{"montht":1706,"disForward":4,"disBackward":0,"rank":298},"checkLevel":15,"isPubliode":1,"hasSubscribe":0,"settings":"","hasLite":false,"bookActReward":{"hitU":0,"subscribeC":otF":0},"abInfo":{"abTextGroup":1}},"msg":"成功"}
