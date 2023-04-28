@@ -1,0 +1,7 @@
+{
+    "bookname": "成为法师的我被领主招婿了",
+    "img": "https://www.bifengzw.com/bookcover/318/318669.jpg",
+    "author": "作者：饭桶阿文",
+    "intro": "简介：（无系统+重生+慢热+成长+主角半无敌+带妹+种田）",
+    "homeUrl": "https://www.bifengzw.com/read/AgZZBQVd.html"
+}

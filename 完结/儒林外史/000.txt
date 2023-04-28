@@ -1,0 +1,9 @@
+{
+    "bookname": "儒林外史",
+    "img": "n/a",
+    "author": "吴敬梓",
+    "intro": "长篇小说《儒林外史》由清代吴敬梓创作。全书五十六回（也有人认为最后一回非吴所作），约四十万字，描写了近两百个人物。小说通过故事，描写了明清时期科举制度下的功名以及各色读书人。版本信息姊妹计划: 百科·粤典·语录·数据项\n",
+    "homeUrl": "https://zh.wikisource.org/wiki/%E5%84%92%E6%9E%97%E5%A4%96%E5%8F%B2",
+    "bookSourceVersion": "0.0.1",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.0"
+}
