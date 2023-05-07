@@ -1,0 +1,9 @@
+{
+    "bookname": "逍遥小书生",
+    "img": "https://www.xbiquge.tw/files/article/image/8/8906/8906s.jpg",
+    "author": "作者：荣小荣",
+    "intro": " 21世纪工科男，穿越古代成为一名穷书生。　　大脑里面居然装着一个图书馆，各种知识应有尽有！这辈子不说封侯拜相，怎么也得当个大官玩玩吧？　　迎着初升的朝阳，...\n",
+    "homeUrl": "https://www.xbiquge.tw/book/8906",
+    "bookSourceVersion": "1.0.2",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.1"
+}
