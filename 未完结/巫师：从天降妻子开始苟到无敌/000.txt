@@ -1,0 +1,9 @@
+{
+    "bookname": "巫师：从天降妻子开始苟到无敌",
+    "img": "https://bookcover.yuewen.com/qdbimg/349573/1036365518/180.webp",
+    "author": "Ode",
+    "intro": "心潮澎湃，无限幻想，迎风挥击千层浪，少年不败热血！",
+    "homeUrl": "https://book.qidian.com/info/1036365518/#Catalog",
+    "bookSourceVersion": "1.0.2",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.3"
+}
