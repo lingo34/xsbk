@@ -1,0 +1,9 @@
+{
+    "bookname": "牧神记",
+    "img": "https://www.xbiquge.tw/files/article/image/14/14719/14719s.jpg",
+    "author": "作者：宅猪",
+    "intro": " 大墟的祖训说，天黑，别出门。　　大墟残老村的老弱病残们从江边捡到了一个婴儿，取名秦牧，含辛茹苦将他养大。这一天夜幕降临，黑暗笼罩大墟，秦牧走出了家门……　...\n",
+    "homeUrl": "https://www.xbiquge.tw/book/14719",
+    "bookSourceVersion": "1.0.2",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.5"
+}
