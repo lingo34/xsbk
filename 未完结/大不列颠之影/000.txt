@@ -1,0 +1,9 @@
+{
+    "bookname": "大不列颠之影",
+    "img": "https://bookcover.yuewen.com/qdbimg/349573/1037013306/180.webp",
+    "author": "趋时",
+    "intro": "魔兽践踏，巨龙咆哮，巫师诅咒，魔法璀璨之光照耀知识灯塔！",
+    "homeUrl": "https://book.qidian.com/info/1037013306/#Catalog",
+    "bookSourceVersion": "1.0.3",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.5"
+}
