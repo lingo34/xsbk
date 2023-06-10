@@ -1,0 +1,9 @@
+{
+    "bookname": "仙子不想理你",
+    "img": "https://bookcover.yuewen.com/qdbimg/349573/1036726477/180.webp",
+    "author": "云芨",
+    "intro": "仙路缥缈，清歌踏月上九天；云山万劫，一剑天光问情缘。",
+    "homeUrl": "https://book.qidian.com/info/1036726477/#Catalog",
+    "bookSourceVersion": "1.0.3",
+    "crawlerVersion": "lingo34/novel-crawler-cli:v1.0.5"
+}
